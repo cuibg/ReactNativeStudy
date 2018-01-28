@@ -2,6 +2,11 @@
   "title": "ReactNative学习",
   "author": "睡觉爱做梦",
   "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "Cuibg's github": "https://github.com/cuibg"
+    }
+  },
   "plugins": [
     "theme-comscore",
     "-lunr",
@@ -48,9 +53,9 @@
       "tocLevel1Icon": "fa fa-hand-o-right",
       "tocLevel2Icon": "fa fa-hand-o-right",
       "tocLevel3Icon": "fa fa-hand-o-right",
-      "associatedWithSummary":false,
-      "multipleH1":false,
-      "showLevel":false
+      "associatedWithSummary": false,
+      "multipleH1": false,
+      "showLevel": false
     }
   }
 }
