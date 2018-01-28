@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](ReadeMe.md)
+* [简介](README.md)
 * [环境配置](ReactNative/EnvironmentBuild.md)
 * [布局](ReactNative/FlexBox.md)
 * [组件使用](ReactNative/Component/ReactNativeComponent.md)
