@@ -1,3 +1,3 @@
-# My Awesome Book
+# 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> 为了学习ReatNative整理了一下内容,仅供参考,不足之处请提出
