@@ -49,13 +49,13 @@ width,height,maxHeight,maxWidth,minHeight,minWidth
 
 ### alignSelf
 
-> 有auto,flex-start,flex-end,center,strech
+> 定义自己在父布局上的侧轴方向,可以覆盖父布局的alitItem属性,有auto,flex-start,flex-end,center,strech
 
 ## 边框空隙与填充
 
 ### 边框
 
->borderWidth、borderTopWidth、borderRightWidth、borderBottomWidth、borderLeftWidth
+> borderWidth、borderTopWidth、borderRightWidth、borderBottomWidth、borderLeftWidth,表示边框的宽度
 
 ### 填充宽度
 
