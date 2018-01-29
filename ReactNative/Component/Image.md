@@ -54,13 +54,13 @@ const nativeImageSource = require('nativeImageSource');
 
 > 要求图片位于显示区域的中心
 
-### repeat模式
+### repeat
 
 > 用一张或者多张来填充个整个Image区域
 
 ## Image其他属性
 
-> onLoadStart、onLoadEnd、onLod、onError函数，三个回调函数中都有event参数
+> `onLoadStart`、`onLoadEnd`、`onLode`、`onError`函数，四个个回调函数中都有event参数
 
 ## Image缓存
 
